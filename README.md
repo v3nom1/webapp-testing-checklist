@@ -1,4 +1,4 @@
-# webapp-testing-checklist
+# Web Application Penetration Testing checklist
 A checklist for web application penetration testing. This checklist was created using OWASP standard.
 
 Contribution
